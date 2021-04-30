@@ -24,6 +24,8 @@ public class Question8 {
 			second=sum;
 						
 		}
+		if(number==2)
+			sum=1;
 		
 		System.out.println(sum);
 
